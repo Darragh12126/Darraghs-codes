@@ -141,7 +141,7 @@ divide_button.grid (row= 5, column=1)
 multiply_button.grid (row= 5, column=2)
 equal_button.grid (row= 5, column=3)
                           
-#main loop
+#main loop a change
 root.mainloop()
 
 
